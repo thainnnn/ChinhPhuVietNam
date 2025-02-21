@@ -1,0 +1,18 @@
+****************************************************
+*                 CKN FINANCIAL FUND               *
+****************************************************
+|--------------------------------------------------|
+|________Name_______________|________Amount_______ |
+| 1 |	Nguyen Hai Duong    |   2 trillion VND dong|
+| 2 |	Phan The Hai	    |   2 trillion VND dong|
+| 3 |	Duong Quang Quy	    |   2 trillion VND dong|
+| 4 |	Phung Phi Ha	    |   2 trillion VND dong|
+| 5 |	Do Re Son	    |   2 trillion VND dong|
+| 6 |	Dam Tung The	    |   2 trillion VND dong|
+| 7 |	Co Co		    |   2 trillion VND dong|
+| 8 |	Duong Qua	    |   2 trillion VND dong|
+| 9 |	Do Dang Binh	    |   2 trillion VND dong|
+| 10|	Tran Minh Dang	    |   2 trillion VND dong|
+| 11|	Dang The Vinh	    |   2 trillion VND dong|
+|--------------------------------------------------|
+
