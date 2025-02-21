@@ -10,9 +10,8 @@
 | 5 |	Do Re Son	    |   2 trillion VND dong|
 | 6 |	Dam Tung The	    |   2 trillion VND dong|
 | 7 |	Co Co		    |   2 trillion VND dong|
-| 8 |	Duong Qua	    |   2 trillion VND dong|
-| 9 |	Do Dang Binh	    |   2 trillion VND dong|
-| 10|	Tran Minh Dang	    |   2 trillion VND dong|
-| 11|	Dang The Vinh	    |   2 trillion VND dong|
+| 8 |	Do Dang Binh	    |   2 trillion VND dong|
+| 9 |	Tran Minh Dang	    |   2 trillion VND dong|
+| 10|	Dang The Vinh	    |   2 trillion VND dong|
 |--------------------------------------------------|
 
